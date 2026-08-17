@@ -270,7 +270,7 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-09.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-10.jpg',
   ];
-  const clNames = { 1:'Espinha de Peixe Baby Brey',2:'Chevron em Carvalho Europeu Batman',3:'Mosaico em Nogueira',4:'Chevron Curve em Nogueira',5:'Chevron em Carvalho Europeu Naturalle',6:'Espinha de Peixe em Carvalho Europeu',7:'Chevron em Carvalho Europeu Mont Blanc',8:'Chevron em Carvalho Europeu Mont Blanc',9:'Versalles em Carvalho Europeu Naturalle',10:'Versalles em Carvalho Europeu Naturalle' };
+  const clNames = { 1:'Espinha de Peixe Baby Brey',2:'Chevron em Carvalho Europeu Batman',3:'Mosaico em Nogueira',4:'Chevron Curve em Nogueira',5:'Chevron em Carvalho Europeu Naturalle',6:'Versalhes customizado',7:'Chevron em Carvalho Europeu Mont Blanc',8:'Chevron em Carvalho Europeu Mont Blanc',9:'Versalles em Carvalho Europeu Naturalle',10:'Versalles em Carvalho Europeu Naturalle' };
   clUrls.forEach((src, idx) => {
     photos.push({ cat: 'Pisos › Clássicos', name: clNames[idx+1], page: 'classicos/', src });
   });

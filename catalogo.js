@@ -149,7 +149,7 @@
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-05.jpg", name: "Chevron" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-06.jpg", name: "Paginação especial" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-04.jpg", name: "Chevron Smoked" },
-                { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-07.jpg", name: "Espinha de Peixe em Carvalho Europeu" },
+                { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-07.jpg", name: "Versalhes customizado" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-01.jpg", name: "Chevron em Nogueira" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-08.jpg", name: "Chevron em Carvalho Europeu Mont Blanc" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-09.jpg", name: "Carvalho Europeu Batman" },
