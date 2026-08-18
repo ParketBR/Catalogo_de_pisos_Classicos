@@ -19,11 +19,11 @@
           desc: 'A base do luxo. Texturas orgânicas e padrões exclusivos que definem o caráter do seu espaço.',
           cover: 'pisos/piso.webp',
           videos: [
-            { type: 'youtube', id: 'ei-nEet8xtE', vertical: true },
-            { type: 'youtube', id: 'rnK5_lllxis', vertical: true },
-            { type: 'youtube', id: 'dp9KqgZEPv4', vertical: true },
-            { type: 'youtube', id: 'YlVMv-bsOT4', vertical: true },
-            { type: 'youtube', id: 'pPyuUIG4ebo', vertical: true },
+            { type: 'youtube', id: 'ei-nEet8xtE', vertical: true, title: 'Piso Chevron 10cm Carvalho Europeu · Obra' },
+            { type: 'youtube', id: 'rnK5_lllxis', vertical: true, title: 'Piso Chevron 16cm Carvalho Europeu · Obra' },
+            { type: 'youtube', id: 'dp9KqgZEPv4', vertical: true, title: 'Piso Chevron 10cm Carvalho Europeu · Obra' },
+            { type: 'youtube', id: 'YlVMv-bsOT4', vertical: true, title: 'Piso Chevron Carvalho Europeu Mont Blanc · Walter Saes' },
+            { type: 'youtube', id: 'pPyuUIG4ebo', vertical: true, title: 'Piso Chevron Tauari · Obra' },
            ],
           collections: [
             {
