@@ -257,10 +257,9 @@ const PARKET_PHOTOS = (() => {
   ];
   prUrls.forEach(src => photos.push({ cat: 'Pisos › Pinho de Riga', name: 'Pinho de Riga', page: 'pisos.html#pinho-de-riga', src }));
 
-  // Pisos › Clássicos (remote 10, ordered)
+  // Pisos › Clássicos (remote 9, ordered)
   const clUrls = [
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-02.jpg',
-    'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-03.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-05.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-06.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-04.jpg',
@@ -270,7 +269,7 @@ const PARKET_PHOTOS = (() => {
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-09.jpg',
     'https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-10.jpg',
   ];
-  const clNames = { 1:'Espinha de Peixe Baby Brey',2:'Chevron em Carvalho Europeu Batman',3:'Mosaico em Nogueira',4:'Chevron Curve em Nogueira',5:'Chevron em Carvalho Europeu Naturalle',6:'Versalhes customizado',7:'Chevron em Carvalho Europeu Mont Blanc',8:'Chevron em Carvalho Europeu Mont Blanc',9:'Versalles em Carvalho Europeu Naturalle',10:'Versalles em Carvalho Europeu Naturalle' };
+  const clNames = { 1:'Espinha de Peixe Baby Brey',2:'Mosaico em Nogueira',3:'Chevron Curve em Nogueira',4:'Chevron em Carvalho Europeu Naturalle',5:'Versalhes customizado',6:'Chevron em Carvalho Europeu Mont Blanc',7:'Chevron em Carvalho Europeu Mont Blanc',8:'Versalles em Carvalho Europeu Naturalle',9:'Versalles em Carvalho Europeu Naturalle' };
   clUrls.forEach((src, idx) => {
     photos.push({ cat: 'Pisos › Clássicos', name: clNames[idx+1], page: 'classicos/', src });
   });

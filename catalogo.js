@@ -147,7 +147,6 @@
               ],
               images: [
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-02.jpg", name: "Chevron Naturale" },
-                { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-03.jpg", name: "Chevron" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-05.jpg", name: "Chevron" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-06.jpg", name: "Paginação especial" },
                 { src: "https://parket.com.br/wp-content/uploads/2025/10/PRO_PI_CL-04.jpg", name: "Chevron Smoked" },
